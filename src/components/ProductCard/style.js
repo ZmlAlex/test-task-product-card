@@ -99,4 +99,6 @@ export const FullDetails = styled.a`
   display: flex;
   margin-top: 24px;
   justify-content: space-between;
+  text-decoration: none;
+  color: black;
 `;
