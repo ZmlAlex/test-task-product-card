@@ -1,0 +1,133 @@
+{
+	"data": {
+		"productId": "789400",
+		"displayName": "Brown animal print long sleeve blouse",
+		"description": "Long sleeve\nAnimal print\nV neck\nOur model wears a UK 8 and is 175cm/5'9'' tall",
+		"htmlDescription": "<ul><li><span></span><span>Long sleeve<br></span></li><li><span>Animal print</span></li><li><span>V neck</span></li><li><span>Our model wears a UK 8 and is 175cm/5'9'' tall</span></li></ul>",
+		"purchasable": true,
+		"links": [{
+			"href": "/p/brown-animal-print-long-sleeve-blouse-789400",
+			"rel": "WebUrl",
+			"method": "GET"
+		}],
+		"images": [{
+				"url": "https://images.riverisland.com/is/image/RiverIsland/brown-animal-print-long-sleeve-blouse_789400_main",
+				"type": "Main"
+			},
+			{
+				"url": "https://images.riverisland.com/is/image/RiverIsland/brown-animal-print-long-sleeve-blouse_789400_rollover",
+				"type": "Rollover"
+			},
+			{
+				"url": "https://images.riverisland.com/is/image/RiverIsland/brown-animal-print-long-sleeve-blouse_789400_back",
+				"type": "Back"
+			},
+			{
+				"url": "https://images.riverisland.com/is/image/RiverIsland/brown-animal-print-long-sleeve-blouse_789400_alt1",
+				"type": "Alt1"
+			},
+			{
+				"url": "https://images.riverisland.com/is/image/RiverIsland/brown-animal-print-long-sleeve-blouse_789400_alt2",
+				"type": "Alt2"
+			}
+		],
+		"priceInfo": {
+			"currencyCode": "GBP",
+			"prices": [{
+					"name": "ListPrice",
+					"value": 10.00
+				},
+				{
+					"name": "OriginalPrice",
+					"value": 32.00
+				},
+				{
+					"name": "PreviousPrice",
+					"value": 15.00
+				}
+			]
+		},
+		"swatches": [],
+		"materialCompositionInfo": [
+			"2% Metallic Fibre",
+			"98% Polyester"
+		],
+		"washCareInfo": [
+			"Iron on reverse",
+			"Machine wash at max 40°C very gentle",
+			"Do not bleach",
+			"Dry flat",
+			"Do not dry clean"
+		],
+		"mediaIcons": [],
+		"variants": [{
+				"dimensions": [{
+					"name": "Size",
+					"value": "6"
+				}],
+				"id": "15050",
+				"inventoryQuantity": 0,
+				"hasLowStock": true
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "8"
+				}],
+				"id": "15051",
+				"inventoryQuantity": 143,
+				"hasLowStock": false
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "10"
+				}],
+				"id": "15052",
+				"inventoryQuantity": 10,
+				"hasLowStock": false
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "12"
+				}],
+				"id": "15053",
+				"inventoryQuantity": 90,
+				"hasLowStock": false
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "14"
+				}],
+				"id": "15054",
+				"inventoryQuantity": 6,
+				"hasLowStock": false
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "16"
+				}],
+				"id": "15055",
+				"inventoryQuantity": 168,
+				"hasLowStock": false
+			},
+			{
+				"dimensions": [{
+					"name": "Size",
+					"value": "18"
+				}],
+				"id": "15719",
+				"inventoryQuantity": 20,
+				"hasLowStock": false
+			}
+		],
+		"localisationContext": {
+			"countryCode": "GB",
+			"currencyCode": "GBP",
+			"currencySymbol": "£"
+		}
+	}
+}
