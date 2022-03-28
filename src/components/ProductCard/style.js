@@ -101,6 +101,10 @@ export const ControlButton = styled.button`
   &:last-child {
     right: 10px;
   }
+
+  svg {
+    flex-shrink: 0;
+  }
 `;
 
 export const FullDetails = styled.a`
