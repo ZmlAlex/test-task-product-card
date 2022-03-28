@@ -52,9 +52,11 @@ export const Size = styled.button`
   width: 34px;
   height: 34px;
   background-color: transparent;
+  color: black;
   border: 1px solid #cccccc;
-  display: grid;
-  place-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   cursor: pointer;
 
   @media ${device.laptopS} {
@@ -65,6 +67,7 @@ export const Size = styled.button`
 
 export const Button = styled.button`
   border: none;
+  color: black;
   background-color: #eff303;
   border-radius: 4px;
   cursor: pointer;
