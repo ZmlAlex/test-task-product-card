@@ -88,8 +88,9 @@ export const ControlButton = styled.button`
   cursor: pointer;
   width: 38px;
   height: 38px;
-  display: grid;
-  place-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
