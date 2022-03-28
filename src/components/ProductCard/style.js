@@ -59,6 +59,11 @@ export const Size = styled.button`
   align-items: center;
   cursor: pointer;
 
+  &:disabled {
+    opacity: 0.4;
+    pointer-events: none;
+  }
+
   @media ${device.laptopS} {
     width: 44px;
     height: 44px;
