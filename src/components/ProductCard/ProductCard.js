@@ -23,13 +23,13 @@ const ProductCard = () => {
     <S.Wrapper>
       <S.ImageWrapper>
         <S.ControlButton>
-          <ChevronLeft />
+          <ChevronLeft size={24} />
         </S.ControlButton>
 
         <S.Image src={data?.images[0].url} />
 
         <S.ControlButton>
-          <ChevronRight />
+          <ChevronRight size={24} />
         </S.ControlButton>
       </S.ImageWrapper>
 
